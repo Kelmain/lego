@@ -1,2 +1,1 @@
-Create a image classifaction with Lego bricks for a  school  hackathon
-
+Create a image classifaction with Lego bricks for the Wild Code School  hackathon
